@@ -5,3 +5,10 @@
 </li>
     <li>yii rbac/init</li>
 </ul>
+
+<p>Test Users</p>
+<ul>
+    <li>logins: TestAdmin, TestStudent1,TestStudent2,TestStudent3</li>
+    <li>Password: 123456</li>
+</ul>
+
